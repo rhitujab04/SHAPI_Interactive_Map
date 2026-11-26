@@ -9,6 +9,6 @@ This repository contains the interactive visualization used in the study _"Inten
 - SHAPI_HD_daynight_final.html – Interactive map showing daytime and nighttime Spatial Heat Adaptation Priority Index (SHAPI) classes.
 - SHAPI_interactive_map.ipynb – Python Jupyter Notebook containing the code used to generate the interactive SHAPI visualization.
 
-**To view the interactive SHAPI map** click on the link _[https://rhitujab04.github.io/SHAPI_Interactive_Map/](https://shapi-interactive-map.rhitujab04.workers.dev/)_
+**To view the interactive SHAPI map** click on the link _https://shapi-interactive-map.rhitujab04.workers.dev_
 
 The map allows users to toggle between day and night layers with reference locations.
